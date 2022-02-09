@@ -16,8 +16,8 @@ function Contact() {
           <h1 class="font-weight-light">Contact</h1>
           <p>
             Address: 75 State St Suite 330 Boston Massachusetts 01239 
-            <br></br>Phone: (617) 735-7160
-            <br></br>Email: info@tangoseed.com
+            <br></br>Phone: (617) 692-0652
+            <br></br>Email: tangoseed@gmail.com
             <br></br>We love to hear from you. 
           </p>
         </div>
